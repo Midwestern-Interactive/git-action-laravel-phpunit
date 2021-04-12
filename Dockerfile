@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/midwestern-interactive/takovr-api/takovr-api:0.1
+FROM docker.pkg.github.com/midwestern-interactive/git-action-laravel-phpunit/laravel-phpunit:0.1
 
 LABEL "com.github.actions.name"="PhpUnit for Laravel"
 LABEL "com.github.actions.description"="Run PhpUnit test suite using Laravel framework"
