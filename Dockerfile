@@ -7,7 +7,7 @@ LABEL "com.github.actions.color"="green"
 
 LABEL "repository"="https://github.com/svikramjeet/git-action-laravel-phpunit"
 LABEL "homepage"="https://github.com/svikramjeet/git-action-laravel-phpunit"
-LABEL "maintainer"="Svikramjeet <vikkramjeet@gmail.com>"
+LABEL "maintainer"="Jared-Dev <jm@buildmidwestern.com>"
 
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
